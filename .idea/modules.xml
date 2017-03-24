@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple-api-gateway/simple-api-gateway.iml" filepath="$PROJECT_DIR$/simple-api-gateway/simple-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-hystrix-dashboard/simple-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/simple-hystrix-dashboard/simple-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-hystrix-turbine/simple-hystrix-turbine.iml" filepath="$PROJECT_DIR$/simple-hystrix-turbine/simple-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-netflix-consumer-user/simple-netflix-consumer-user.iml" filepath="$PROJECT_DIR$/simple-netflix-consumer-user/simple-netflix-consumer-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-netflix-eureka-server/simple-netflix-eureka-server.iml" filepath="$PROJECT_DIR$/simple-netflix-eureka-server/simple-netflix-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-netflix-provider-product/simple-netflix-provider-product.iml" filepath="$PROJECT_DIR$/simple-netflix-provider-product/simple-netflix-provider-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-netflix-provider-user/simple-netflix-provider-user.iml" filepath="$PROJECT_DIR$/simple-netflix-provider-user/simple-netflix-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-simple-netflix.iml" filepath="$PROJECT_DIR$/spring-cloud-simple-netflix.iml" />
+    </modules>
+  </component>
+</project>

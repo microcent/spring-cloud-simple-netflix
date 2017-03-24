@@ -1,0 +1,12 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: provider-product
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://discovery:8761/eureka/  #http://peer1:8761/eureka/,http://peer2:8762/eureka/
+  instance:
+    preferIpAddress: true
